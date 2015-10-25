@@ -1,0 +1,2 @@
+ini baris ke-1
+ini baris ke-2
